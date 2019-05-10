@@ -1,6 +1,10 @@
+## OpenCV 4.0 Tutorial
+This repository contains source code of OpenCV Tutorial application, the environment is python3.0 and opencv4.0
+
+### Learning Road
 No    | Description   
 -------- | -------- 
-code_001 | [OpenCV之图片读取与显示](python/code_001/opencv_001.py/opencv_001.py) 
+code_001 | [OpenCV之图片读取与显示](python/code_001/opencv_001.py)
 code_002 | [OpenCV之图片灰度化](python/code_002/opencv_002.py) 
 code_003 | [OpenCV之图像创建与赋值](python/code_003/opencv_003.py) 
 code_004 | [OpenCV之图像像素读写](python/code_004/opencv_004.py) 
