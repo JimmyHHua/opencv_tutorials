@@ -1,7 +1,28 @@
 # OpenCV 4.0 Tutorial
+
+## Introduction
+
 This repository contains source code of OpenCV Tutorial application, the environment is python3.0 and opencv4.0
 
-## Learning Road
+## Sample
+- Image load
+```python
+import cv2
+
+src = cv2.imread("test.png")
+cv2.namedWindow("input", cv2.WINDOW_AUTOSIZE)
+cv2.imshow("input", src)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+```
+- Gray Image
+```python
+gray = cv2.cvtColor(src, cv.COLOR_BGR2GRAY)
+```
+---
+**More opencv4.0 tutorials plese flow the learning road as below** 👇👇👇
+
+## Learning Road ⛳️⛳️⛳️
 - ✔️ : **Basic**
 - ✏️ : **Attention**
 - ❣️ : **Important**
@@ -63,3 +84,8 @@ code_052 | [OpenCV之几何矩计算中心](python/code_052/opencv_052.py)   | �
 code_053 | [OpenCV之使用Hu矩阵实现轮廓匹配](python/code_053/opencv_053.py)   | ✔️
 code_054 | [OpenCV之轮廓圆与椭圆拟合](python/code_054/opencv_054.py)   | ✔️
 code_055 | [OpenCV之凸包检测](python/code_055/opencv_055.py)   | ✏️
+code_056 | [OpenCV之直线拟合与极值点寻找](python/code_056/opencv_056.py)   | ✔️
+code_057 | [OpenCV之点多边形测试](python/code_057/opencv_057.py)   | ✔️
+code_058 | [OpenCV之寻找最大内接圆](python/code_058/opencv_058.py)   | ✔️
+code_059 | [OpenCV之霍夫曼直线检测](python/code_059/opencv_059.py)   | ✔️
+code_060 | [OpenCV之概率霍夫曼直线检测](python/code_060/opencv_060.py)   | ❣️
