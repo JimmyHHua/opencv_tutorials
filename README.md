@@ -1,8 +1,8 @@
 # OpenCV 4.0 Tutorial
-
+[![](https://img.shields.io/badge/opencv-v4.0.0-orange.svg)](https://opencv.org/)       [![](https://img.shields.io/badge/opencv-tutorial-brightgreen.svg)](https://docs.opencv.org/4.0.0/d9/df8/tutorial_root.html)
 ## Introduction
 
-This repository contains source code of OpenCV Tutorial application, the environment is python3.0 and opencv4.0
+This repository contains source code of OpenCV Tutorial application, the environment is python3.0 and opencv4.0.
 
 ## Sample
 - Image load
@@ -20,14 +20,14 @@ cv2.destroyAllWindows()
 gray = cv2.cvtColor(src, cv.COLOR_BGR2GRAY)
 ```
 ---
-**More opencv4.0 tutorials plese flow the learning road as below** 👇👇👇
+**More opencv4.0 tutorials plese follow the learning road as below** 👇👇👇
 
-## Learning Road ⛳️⛳️⛳️
+## Learning Road ⛳️
 - ✔️ : **Basic**
 - ✏️ : **Attention**
 - ❣️ : **Important**
 
-No    | Description   | TODO
+No    | Description   | Annotation
 :--------: | :--------: | :--------:
 code_001 | [OpenCV之图片读取与显示](python/code_001/opencv_001.py)   | ✔️
 code_002 | [OpenCV之图片灰度化](python/code_002/opencv_002.py)   | ✔️
