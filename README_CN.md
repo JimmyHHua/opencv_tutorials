@@ -24,7 +24,8 @@ cv2.destroyAllWindows()
 gray = cv2.cvtColor(src, cv.COLOR_BGR2GRAY)
 ```
 <div align=center><img src=https://i.loli.net/2019/05/22/5ce4b2ae1e7ce86434.png width=100>       <img src=https://i.loli.net/2019/05/22/5ce4b2ae220a248459.png width=100></div>
----
+
+
 **更多的opencv教程请参考下面的学习路径** 👇👇👇
 
 ## 学习路径 ⛳️
