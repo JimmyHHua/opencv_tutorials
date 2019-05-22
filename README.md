@@ -7,7 +7,7 @@
 This repository contains source code of OpenCV Tutorial application, the environment is python3.0 and opencv4.0.
 
 ## Sample
-- Image load
+- **Image load**
 ```python
 import cv2
 
@@ -19,13 +19,15 @@ cv2.destroyAllWindows()
 ```
 <div align=center><img src="https://i.loli.net/2019/05/22/5ce4b40258c9155103.jpg" width=200></div>
 
-- Gray Image
+- **Gray Image**
 ```python
 gray = cv2.cvtColor(src, cv.COLOR_BGR2GRAY)
 ```
 
 <div align=center><img src=https://i.loli.net/2019/05/22/5ce4b2ae1e7ce86434.png width=120>       <img src=https://i.loli.net/2019/05/22/5ce4b2ae220a248459.png width=120></div>
 
+ 
+ 
 ***More opencv4.0 tutorials plese follow the learning road as below*** 👇👇👇
 
 ## Learning Road ⛳️
