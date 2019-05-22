@@ -1,13 +1,14 @@
 # OpenCV 4.0 Tutorial
-[![](https://img.shields.io/badge/opencv-v4.0.0-orange.svg)](https://opencv.org/)       [![](https://img.shields.io/badge/opencv-tutorial-brightgreen.svg)](https://docs.opencv.org/4.0.0/d9/df8/tutorial_root.html)
-
-✒️ [中文版本](./README_CN.md)
+[![](https://img.shields.io/badge/v4.0.0-orange.svg)](https://opencv.org/)       [![](https://img.shields.io/badge/tutorial-brightgreen.svg)](https://docs.opencv.org/4.0.0/d9/df8/tutorial_root.html)
+[Chinese Version]('./README_CN.md')
 ## Introduction
 
 This repository contains source code of OpenCV Tutorial application, the environment is python3.0 and opencv4.0.
 
 ## Sample
-- Image load
+
+- **Image load**
+
 ```python
 import cv2
 
@@ -19,7 +20,8 @@ cv2.destroyAllWindows()
 ```
 <div align=center><img src="https://i.loli.net/2019/05/22/5ce4b40258c9155103.jpg" width=200></div>
 
-- Gray Image
+- **Gray Image**
+
 ```python
 gray = cv2.cvtColor(src, cv.COLOR_BGR2GRAY)
 ```
@@ -31,6 +33,7 @@ gray = cv2.cvtColor(src, cv.COLOR_BGR2GRAY)
 ## Learning Road ⛳️
 
 ***Annotation:***
+
 - ✔️  **: Basic**
 - ✏️  **: Attention**
 - ❣️  **: Important**
