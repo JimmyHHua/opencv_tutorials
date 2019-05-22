@@ -26,6 +26,7 @@ gray = cv2.cvtColor(src, cv.COLOR_BGR2GRAY)
 
 <div align=center><img src=https://i.loli.net/2019/05/22/5ce4b2ae1e7ce86434.png width=100>       <img src=https://i.loli.net/2019/05/22/5ce4b2ae220a248459.png width=100></div>
 ---
+
 ***More opencv4.0 tutorials plese follow the learning road as below*** 👇👇👇
 
 ## Learning Road ⛳️
