@@ -26,8 +26,8 @@ gray = cv2.cvtColor(src, cv.COLOR_BGR2GRAY)
 
 <div align=center><img src=https://i.loli.net/2019/05/22/5ce4b2ae1e7ce86434.png width=120>       <img src=https://i.loli.net/2019/05/22/5ce4b2ae220a248459.png width=120></div>
 
- 
- 
+
+
 ***More opencv4.0 tutorials plese follow the learning road as below*** 👇👇👇
 
 ## Learning Road ⛳️
@@ -104,3 +104,8 @@ code_062 | [Dilation and Erosion](python/code_062/opencv_062.py)   | ❣️
 code_063 | [Structuring Element](python/code_063/opencv_063.py)   | ✔️
 code_064 | [Opening Transformation](python/code_064/opencv_064.py)   | ✏️
 code_065 | [Closing Transformation](python/code_065/opencv_065.py)   | ✏️
+code_066 | [Application of Opening and Closing Operations](python/code_066/opencv_066.py)   | ✏️
+code_067 | [Top Hat](python/code_067/opencv_067.py)   | ✔️
+code_068 | [Black Hat](python/code_068/opencv_068.py)   | ✔️
+code_069 | [Morph Gradient](python/code_069/opencv_069.py)   | ✔️
+code_070 | [Contour based on Morph Gradient](python/code_070/opencv_070.py)   | ✏️

@@ -103,3 +103,8 @@ code_062 | [膨胀和腐蚀](python/code_062/opencv_062.py)   | ❣️
 code_063 | [结构元素](python/code_063/opencv_063.py)   | ✔️
 code_064 | [开运算](python/code_064/opencv_064.py)   | ✏️
 code_065 | [闭运算](python/code_065/opencv_065.py)   | ✏️
+code_066 | [开闭运算的应用](python/code_066/opencv_066.py)   | ✏️
+code_067 | [顶帽](python/code_067/opencv_067.py)   | ✔️
+code_068 | [黑帽](python/code_068/opencv_068.py)   | ✔️
+code_069 | [图像梯度](python/code_069/opencv_069.py)   | ✔️
+code_070 | [基于梯度的轮廓发现](python/code_070/opencv_070.py)   | ✏️
