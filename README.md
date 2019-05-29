@@ -110,7 +110,7 @@ code_068 | [Black Hat](python/code_068/opencv_068.py)   | ✔️
 code_069 | [Morph Gradient](python/code_069/opencv_069.py)   | ✔️
 code_070 | [Contour based on Morph Gradient](python/code_070/opencv_070.py)   | ✏️
 code_071 | [Hit and Miss](python/code_071/opencv_071.py)   | ✔️
-code_072 | [Defect Detecting-1](python/code_072/opencv_072.py)   | ✔️
+code_072 | [Defect Detecting-1](python/code_072)   | ✔️
 code_073 | [Defect Detecting-2](python/code_073/opencv_073.py)   | ✔️
-code_074 | [Extract the Maximum Contour and Coding Key Points](python/code_074/opencv_074.py)   | ✔️
+code_074 | [Extract the Maximum Contour and Coding Key Points](python/code_074)   | ✔️
 code_075 | [Image Inpainting](python/code_075/opencv_075.py)   | ✔️

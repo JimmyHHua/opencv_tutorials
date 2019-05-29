@@ -109,7 +109,7 @@ code_068 | [黑帽](python/code_068/opencv_068.py)   | ✔️
 code_069 | [图像梯度](python/code_069/opencv_069.py)   | ✔️
 code_070 | [基于梯度的轮廓发现](python/code_070/opencv_070.py)   | ✏️
 code_071 | [击中击不中](python/code_071/opencv_071.py)   | ✔️
-code_072 | [缺陷检测1](python/code_072/opencv_072.py)   | ✔️
+code_072 | [缺陷检测1](python/code_072)   | ✔️
 code_073 | [缺陷检测2](python/code_073/opencv_073.py)   | ✔️
-code_074 | [提取最大轮廓和编码关键点](python/code_074/opencv_074.py)   | ✔️
+code_074 | [提取最大轮廓和编码关键点](python/code_074)   | ✔️
 code_075 | [图像修复](python/code_075/opencv_075.py)   | ✔️
