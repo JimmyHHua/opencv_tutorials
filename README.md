@@ -114,3 +114,8 @@ code_072 | [Defect Detecting-1](python/code_072)   | ✔️
 code_073 | [Defect Detecting-2](python/code_073/opencv_073.py)   | ✔️
 code_074 | [Extract the Maximum Contour and Coding Key Points](python/code_074)   | ✔️
 code_075 | [Image Inpainting](python/code_075/opencv_075.py)   | ✔️
+code_076 | [Perspective Transformation](python/code_076/opencv_076.py)   | ✏️
+code_077 | [Video Read, Write and Process](python/code_077/opencv_077.py)   | ✏️
+code_078 | [Identify and Track Specific Color Objects in Video](python/code_078)   | ✔️
+code_079 | [Video Analysis-Background/Foreground Extraction](python/code_079/opencv_079.py)   | ✔️
+code_080 | [Video Analysis–Background Subtraction and ROI Extraction of the Foreground](python/code_080)   | ✔️

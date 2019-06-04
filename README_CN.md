@@ -113,3 +113,8 @@ code_072 | [缺陷检测1](python/code_072)   | ✔️
 code_073 | [缺陷检测2](python/code_073/opencv_073.py)   | ✔️
 code_074 | [提取最大轮廓和编码关键点](python/code_074)   | ✔️
 code_075 | [图像修复](python/code_075/opencv_075.py)   | ✔️
+code_076 | [图像透视变换应用](python/code_076/opencv_076.py)   | ✏️
+code_077 | [视频读写和处理](python/code_077/opencv_077.py)   | ✏️
+code_078 | [识别与跟踪视频中的特定颜色对象](python/code_078)   | ✔️
+code_079 | [视频分析-背景/前景 提取](python/code_079/opencv_079.py)   | ✔️
+code_080 | [视频分析–背景消除与前景ROI提取](python/code_080)   | ✔️
