@@ -118,3 +118,6 @@ code_077 | [视频读写和处理](python/code_077/opencv_077.py)   | ✏️
 code_078 | [识别与跟踪视频中的特定颜色对象](python/code_078)   | ✔️
 code_079 | [视频分析-背景/前景 提取](python/code_079/opencv_079.py)   | ✔️
 code_080 | [视频分析–背景消除与前景ROI提取](python/code_080)   | ✔️
+code_081 | [角点检测-Harris角点检测](python/code_081)   | ✔️
+code_082 | [角点检测-Shi-Tomas角点检测](python/code_082)   | ✏️
+code_083 | [角点检测-亚像素角点检测](python/code_083)   | ✔️

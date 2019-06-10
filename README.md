@@ -119,3 +119,6 @@ code_077 | [Video Read, Write and Process](python/code_077/opencv_077.py)   | �
 code_078 | [Identify and Track Specific Color Objects in Video](python/code_078)   | ✔️
 code_079 | [Video Analysis-Background/Foreground Extraction](python/code_079/opencv_079.py)   | ✔️
 code_080 | [Video Analysis–Background Subtraction and ROI Extraction of the Foreground](python/code_080)   | ✔️
+code_081 | [Corner Detection-Harris](python/code_081)   | ✔️
+code_082 | [Corner Detection-Shi-Tomas](python/code_082)   | ✏️
+code_083 | [Corner Detection-Sub-Pixel ](python/code_083)   | ✔️
