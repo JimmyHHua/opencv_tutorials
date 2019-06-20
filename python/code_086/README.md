@@ -1,6 +1,10 @@
 # 视频光流检测
 ✏️ ⛳️👍
 
+**More Detail, please check the blog of zhihu as below**
+
+✈️ ✈️ ✈️ [OpenCV视频分析-光流分析](https://zhuanlan.zhihu.com/p/69999853)
+
 ## 概述
 
 ✔️ 光流是由对象或相机的移动引起的两个连续帧之间的图像对象的明显运动的模式.它是2D矢量场，其中每个矢量是位移矢量，表示从第一帧到第二帧的点的移动。
@@ -20,34 +24,11 @@
 - 连续的两帧图像之间，**目标像素灰度值不变**。
 - 相邻的像素之间有**相似的运动**。
 
-**数学原理**
 
-✔️  第一帧的像素$I(x,y,t)$，表示在 t 时刻的像素值，那么经过$d_t$时间后，像素在下一帧移动的距离为$(d_x,d_y)$。基于像素相同，亮度不变，可得：
-```math
-I(x, y, t)=I\left(x+d_{x}, y+d_{y}, t+d_{t}\right)
-```
-假设移动很小，使用泰勒公式得：
-```math
-I(x+\Delta x, y+\Delta y, t+\Delta t)=I(x, y, t)+\frac{\partial I}{\partial x} \Delta x+\frac{\partial I}{\partial y} \Delta y+\frac{\partial I}{\partial t} \Delta t + \varepsilon
-```
-
-其中$\varepsilon$为无穷小，由第一个假设得：
-```math
-\frac{\partial I}{\partial x} \Delta x+\frac{\partial I}{\partial y} \Delta y+\frac{\partial I}{\partial t} \Delta t=0
-
-<==>
-
-\frac{\partial I}{\partial x} \frac{\Delta x}{\Delta t}+\frac{\partial I}{\partial y} \frac{\Delta y}{\Delta t}+\frac{\partial I}{\partial t} \frac{\Delta t}{\Delta t}=0
-```
-设 $\frac{\partial I}{\partial x}=f_{x} , \frac{\partial I}{\partial y}=f_{y} , \frac{\partial I}{\partial t}=f_{t}$,$\frac{\Delta x}{\Delta t}=u ; \frac{\Delta y}{\Delta t}=v$,则有得到光流方程为：
-```math
-f_{x} u+f_{y} v+f_{t}=0
-```
-其中，$f_x$和$f_y$分别是图像梯度，$f_t$是图像沿着时间的梯度。
 
 ![3.png](https://i.loli.net/2019/06/19/5d0a03cc7d14051499.png)
 
-✔️ 为了求解未知的$u, v$，采用Lucas-Kanada 方法解决,这个算法最早是有Bruce D. Lucas and Takeo Kanade两位作者提出来的，所以又被称为KLT。
+✔️ 为了求解未知的u, v，采用Lucas-Kanada 方法解决,这个算法最早是有Bruce D. Lucas and Takeo Kanade两位作者提出来的，所以又被称为KLT。
 
 KLT算法工作有三个假设前提条件：
 - 亮度恒定
@@ -102,7 +83,6 @@ nextPts,status,err = cv2.calcOpticalFlowPyrLK(prevImg,   #上一帧图片
 ## 示例代码
 
 **1. 删除静止点的光流分析：**
-
 [Python code](../code_085/opencv_085_flow.py)
 
 <img src=http://libai.91iot.net/lufax-read-palm/9jDmeoBxbh8g8lFq6HUCUvVgWtX5w3g1 height=400>
