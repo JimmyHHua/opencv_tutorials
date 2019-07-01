@@ -124,7 +124,7 @@ code_083 | [角点检测-亚像素角点检测](python/code_083)   | ✔️
 code_084 | [视频分析-KLT光流跟踪算法-1](python/code_084)   | ✏️
 code_085 | [视频分析-KLT光流跟踪算法-2](python/code_085)   | ✏️
 code_086 | [视频分析-稠密光流分析](python/code_086)   | ✏️
-code_087 | [视频分析-帧差移动对象分析](python/code_087)   | ✔️
+code_087 | [视频分析-帧差移动对象分析](python/code_087/opencv_087.py)   | ✔️
 code_088 | [视频分析-均值迁移](python/code_088)   | ✏️
 code_089 | [视频分析-连续自适应均值迁移](python/code_089)   | ✏️
 code_090 | [视频分析-对象移动轨迹绘制](python/code_090)   | ✔️

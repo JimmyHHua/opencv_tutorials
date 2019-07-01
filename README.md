@@ -125,7 +125,7 @@ code_083 | [Corner Detection-Sub-Pixel ](python/code_083)   | ✔️
 code_084 | [Video Analysis-KLT Optical Flow-1](python/code_084)   | ✏️
 code_085 | [Video Analysis-KLT Optical Flow-2](python/code_085)   | ✏️
 code_086 | [Video Analysis-Dense Optical Flow](python/code_086)   | ✏️
-code_087 | [Video Analysis-Frame Difference Moving Object Analysis](python/code_087)   | ✔️
+code_087 | [Video Analysis-Frame Difference Moving Object Analysis](python/code_087/opencv_087.py)   | ✔️
 code_088 | [Video Analysis-Meanshift](python/code_088)   | ✏️
 code_089 | [Video Analysis-CamShift](python/code_089)   | ✏️
 code_090 | [Video Analysis-Object Movement Trajectory Drawing](python/code_090)   | ✔️
