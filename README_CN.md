@@ -128,3 +128,5 @@ code_087 | [视频分析-帧差移动对象分析](python/code_087/opencv_087.py
 code_088 | [视频分析-均值迁移](python/code_088)   | ✏️
 code_089 | [视频分析-连续自适应均值迁移](python/code_089)   | ✏️
 code_090 | [视频分析-对象移动轨迹绘制](python/code_090)   | ✔️
+code_090 | [对象检测-HAAR级联分类器](python/code_091)   | ✔️
+code_090 | [对象检测-HAAR特征分析](python/code_092)   | ✔️

@@ -129,3 +129,5 @@ code_087 | [Video Analysis-Frame Difference Moving Object Analysis](python/code_
 code_088 | [Video Analysis-Meanshift](python/code_088)   | ✏️
 code_089 | [Video Analysis-CamShift](python/code_089)   | ✏️
 code_090 | [Video Analysis-Object Movement Trajectory Drawing](python/code_090)   | ✔️
+code_090 | [Object Detection-HAAR Cascade Classification ](python/code_091)   | ✔️
+code_090 | [Object Detection-HAAR Feature Analysis](python/code_092)   | ✔️
