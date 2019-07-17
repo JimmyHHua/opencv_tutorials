@@ -129,5 +129,12 @@ code_087 | [Video Analysis-Frame Difference Moving Object Analysis](python/code_
 code_088 | [Video Analysis-Meanshift](python/code_088)   | ✏️
 code_089 | [Video Analysis-CamShift](python/code_089)   | ✏️
 code_090 | [Video Analysis-Object Movement Trajectory Drawing](python/code_090)   | ✔️
-code_090 | [Object Detection-HAAR Cascade Classification ](python/code_091)   | ✔️
-code_090 | [Object Detection-HAAR Feature Analysis](python/code_092)   | ✔️
+code_091 | [Object Detection-HAAR Cascade Classification ](python/code_091)   | ✔️
+code_092 | [Object Detection-HAAR Feature Analysis](python/code_092)   | ✔️
+code_093 | [Object Detection-LBP Feature Analysis](python/code_093/opencv_093.py)   | ✔️
+code_094 | [ORB Feature Critical Point Detection](python/code_094)   | ✏️
+code_095 | [ORB Feature Descriptor Matching](python/code_095)   | ✔️
+code_096 | [Multiple  Descriptor Matching Methods](python/code_096)   | ✏️
+code_097 | [Location of Known Objects Based on Descriptor Matches](python/code_097)   | ✏️
+code_098 | [SIFT Feature Critical Point Detection](python/code_097)   | ✔️
+code_099 | [SIFT Feature Descriptor Matching](python/code_097)   | ✔️

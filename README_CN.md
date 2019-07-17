@@ -128,5 +128,12 @@ code_087 | [视频分析-帧差移动对象分析](python/code_087/opencv_087.py
 code_088 | [视频分析-均值迁移](python/code_088)   | ✏️
 code_089 | [视频分析-连续自适应均值迁移](python/code_089)   | ✏️
 code_090 | [视频分析-对象移动轨迹绘制](python/code_090)   | ✔️
-code_090 | [对象检测-HAAR级联分类器](python/code_091)   | ✔️
-code_090 | [对象检测-HAAR特征分析](python/code_092)   | ✔️
+code_091 | [对象检测-HAAR级联分类器](python/code_091)   | ✔️
+code_092 | [对象检测-HAAR特征分析](python/code_092)   | ✔️
+code_093 | [对象检测-LBP特征分析](python/code_093/opencv_093.py)   | ✔️
+code_094 | [ORB 特征关键点检测](python/code_094)   | ✏️
+code_095 | [ORB 特征描述子匹配](python/code_095)   | ✔️
+code_096 | [多种描述子匹配方法](python/code_096)   | ✏️
+code_097 | [基于描述子匹配的已知对象定位](python/code_097)   | ✏️
+code_098 | [SIFT 特征关键点检测](python/code_097)   | ✔️
+code_099 | [SIFT 特征描述子匹配](python/code_097)   | ✔️
