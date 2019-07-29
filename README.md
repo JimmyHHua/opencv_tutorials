@@ -138,3 +138,9 @@ code_096 | [Multiple  Descriptor Matching Methods](python/code_096)   | ✏️
 code_097 | [Location of Known Objects Based on Descriptor Matches](python/code_097)   | ✏️
 code_098 | [SIFT Feature Critical Point Detection](python/code_097)   | ✔️
 code_099 | [SIFT Feature Descriptor Matching](python/code_097)   | ✔️
+code_100 | [HOG Pedestrian Detection](python/code_100/opencv_100.py)   | ✔️
+code_101 | [HOG Multiscale Detection](python/code_101/opencv_101.py)   | ✏️
+code_102 | [HOG Extract Descriptor](python/code_102/opencv_102.py)   | ✔️
+code_103 | [HOG Use Descriptors to Generate Sample Data](python/code_103/opencv_103.py)   | ✔️
+code_104 | [(Detection Case)-HOG+SVM Train](python/code_104/opencv_104.py)   | ✔️
+code_105 | [(Detection Case)-HOG+SVM Predict](python/code_105/opencv_105.py)   | ✔️
