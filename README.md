@@ -144,3 +144,7 @@ code_102 | [HOG Extract Descriptor](python/code_102/opencv_102.py)   | ✔️
 code_103 | [HOG Use Descriptors to Generate Sample Data](python/code_103/opencv_103.py)   | ✔️
 code_104 | [(Detection Case)-HOG+SVM Train](python/code_104/opencv_104.py)   | ✔️
 code_105 | [(Detection Case)-HOG+SVM Predict](python/code_105/opencv_105.py)   | ✔️
+code_106 | [AKAZE Features and Descriptors](python/code_106)   | ✔️
+code_107 | [Brisk Features and Descriptors](python/code_107)   | ✔️
+code_108 | [GFTT Detector](python/code_108)   | ✔️
+code_109 | [BLOB Feature Analysis](python/code_109)   | ✔️

@@ -143,3 +143,7 @@ code_102 | [HOG 提取描述子](python/code_102/opencv_102.py)   | ✔️
 code_103 | [HOG 使用描述子生成样本数据](python/code_103/opencv_103.py)   | ✔️
 code_104 | [(检测案例)-HOG+SVM 训练](python/code_104/opencv_104.py)   | ✔️
 code_105 | [(检测案例)-HOG+SVM 预测](python/code_105/opencv_105.py)   | ✔️
+code_106 | [AKAZE 特征与描述子](python/code_106)   | ✔️
+code_107 | [Brisk 特征与描述子](python/code_107)   | ✔️
+code_108 | [GFTT关键点检测](python/code_108)   | ✔️
+code_109 | [BLOB 特征分析](python/code_109)   | ✔️
