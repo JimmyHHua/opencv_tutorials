@@ -148,3 +148,7 @@ code_106 | [AKAZE Features and Descriptors](python/code_106)   | ✔️
 code_107 | [Brisk Features and Descriptors](python/code_107)   | ✔️
 code_108 | [GFTT Detector](python/code_108)   | ✔️
 code_109 | [BLOB Feature Analysis](python/code_109)   | ✔️
+code_110 | [KMeans Data Classification](python/code_110)   | ✔️
+code_111 | [KMeans Image Segmentation](python/code_111)   | ✔️
+code_112 | [KMeans Background Change](python/code_112)   | ✔️
+code_113 | [KMeans Extract Image Color Card](python/code_113)   | ✔️

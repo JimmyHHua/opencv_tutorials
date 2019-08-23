@@ -147,3 +147,7 @@ code_106 | [AKAZE 特征与描述子](python/code_106)   | ✔️
 code_107 | [Brisk 特征与描述子](python/code_107)   | ✔️
 code_108 | [GFTT关键点检测](python/code_108)   | ✔️
 code_109 | [BLOB 特征分析](python/code_109)   | ✔️
+code_110 | [KMeans 数据分类](python/code_110)   | ✔️
+code_111 | [KMeans 图像分割](python/code_111)   | ✔️
+code_112 | [KMeans 图像替换](python/code_112)   | ✔️
+code_113 | [KMeans 图像色卡提取](python/code_113)   | ✔️
