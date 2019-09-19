@@ -151,3 +151,5 @@ code_110 | [KMeans 数据分类](python/code_110)   | ✔️
 code_111 | [KMeans 图像分割](python/code_111)   | ✔️
 code_112 | [KMeans 图像替换](python/code_112)   | ✔️
 code_113 | [KMeans 图像色卡提取](python/code_113)   | ✔️
+code_114 | [KNN 分类模型](python/code_114)   | ✔️
+code_115 | [KNN 数据保存](python/code_115)   | ✔️

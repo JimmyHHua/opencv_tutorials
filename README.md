@@ -152,3 +152,5 @@ code_110 | [KMeans Data Classification](python/code_110)   | ✔️
 code_111 | [KMeans Image Segmentation](python/code_111)   | ✔️
 code_112 | [KMeans Background Change](python/code_112)   | ✔️
 code_113 | [KMeans Extract Image Color Card](python/code_113)   | ✔️
+code_114 | [KNN Classification](python/code_114)   | ✔️
+code_115 | [KNN-Train Data Save and Load](python/code_115)   | ✔️
