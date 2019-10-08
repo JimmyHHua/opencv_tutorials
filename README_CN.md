@@ -153,3 +153,7 @@ code_112 | [KMeans 图像替换](python/code_112)   | ✔️
 code_113 | [KMeans 图像色卡提取](python/code_113)   | ✔️
 code_114 | [KNN 分类模型](python/code_114)   | ✔️
 code_115 | [KNN 数据保存](python/code_115)   | ✔️
+code_116 | [决策树算法](python/code_116)   | ✔️
+code_117 | [图像均值漂移分割](python/code_117)   | ✔️
+code_118 | [Grabcut-图像分割](python/code_118)   | ✔️
+code_119 | [Grabcut-背景替换](python/code_119)   | ✏️

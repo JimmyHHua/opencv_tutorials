@@ -154,3 +154,7 @@ code_112 | [KMeans Background Change](python/code_112)   | ✔️
 code_113 | [KMeans Extract Image Color Card](python/code_113)   | ✔️
 code_114 | [KNN Classification](python/code_114)   | ✔️
 code_115 | [KNN-Train Data Save and Load](python/code_115)   | ✔️
+code_116 | [Decision Tree Algorithm](python/code_116)   | ✔️
+code_117 | [Image Mean-shift Segmentation](python/code_117)   | ✔️
+code_118 | [Grabcut-Image Segmentation](python/code_118)   | ✔️
+code_119 | [Grabcut-Background Change](python/code_119)   | ✏️
