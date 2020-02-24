@@ -66,12 +66,12 @@ Hello, this is Jimmy, thanks for your little star~
 ```
 原图：
 
-<img src=https://i.loli.net/2020/02/24/Lv4TuaMqPehZzFQ.png width=200>
+![](./qrcode.png)
 
 检测：
 
-<img src=https://i.loli.net/2020/02/24/3bY6AgUSCN75QFR.png width=200>
+![](./result.png)
 
 ROI图：
 
-<img src=https://i.loli.net/2020/02/24/Wf2JVXcFbMaOQu6.png width=100>
+![](./qrcode_roi.png)
