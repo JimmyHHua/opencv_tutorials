@@ -157,3 +157,4 @@ code_116 | [决策树算法](python/code_116)   | ✔️
 code_117 | [图像均值漂移分割](python/code_117)   | ✔️
 code_118 | [Grabcut-图像分割](python/code_118)   | ✔️
 code_119 | [Grabcut-背景替换](python/code_119)   | ✏️
+code_120 | [二维码检测识别](python/code_120)   | ✔️

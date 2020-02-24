@@ -158,3 +158,4 @@ code_116 | [Decision Tree Algorithm](python/code_116)   | ✔️
 code_117 | [Image Mean-shift Segmentation](python/code_117)   | ✔️
 code_118 | [Grabcut-Image Segmentation](python/code_118)   | ✔️
 code_119 | [Grabcut-Background Change](python/code_119)   | ✏️
+code_120 | [Qrcode detect and decode](python/code_120)   | ✔️
