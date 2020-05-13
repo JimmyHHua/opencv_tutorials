@@ -80,4 +80,4 @@ show_img = np.hstack((image, result))
 ```
 >输出豚鼠的预测结果
 
-![result]('./result.jpg')
+<img src="./result.jpg">

@@ -52,5 +52,5 @@ for detection in Out[0,0,:,:]:
 ```
 >输出
 
-![dog]('./dog.jpg)
-![Pedestrian]('./result.png)
+<img src="./dog.jpg">
+<img src="./result.png">

@@ -160,6 +160,6 @@ code_119 | [Grabcut-背景替换](python/code_119)   | ✏️
 code_120 | [二维码检测识别](python/code_120)   | ✔️
 code_121 | [DNN- 读取模型各层信息](python/code_121)   | ✔️
 code_122 | [DNN- DNN实现图像分类](python/code_122)   | ✔️
-code_120 | [DNN- 模型运行设置目标设备与计算后台](python/code_123)   | ✔️
-code_120 | [DNN- SSD单张图片检测](python/code_124)   | ✔️
-code_120 | [DNN- SSD实时视频检测](python/code_125)   | ✔️
+code_123 | [DNN- 模型运行设置目标设备与计算后台](python/code_123)   | ✔️
+code_124 | [DNN- SSD单张图片检测](python/code_124)   | ✔️
+code_125 | [DNN- SSD实时视频检测](python/code_125)   | ✔️
