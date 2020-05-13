@@ -159,3 +159,8 @@ code_117 | [Image Mean-shift Segmentation](python/code_117)   | ✔️
 code_118 | [Grabcut-Image Segmentation](python/code_118)   | ✔️
 code_119 | [Grabcut-Background Change](python/code_119)   | ✏️
 code_120 | [Qrcode detect and decode](python/code_120)   | ✏️
+code_121 | [DNN- Read the information of each layer of the model](python/code_121)   | ✔️
+code_122 | [DNN- Realize image classification](python/code_122)   | ✔️
+code_120 | [DNN- Model runs to set the target device and compute the background](python/code_123)   | ✔️
+code_120 | [DNN- SSD Single Image Detection](python/code_124)   | ✔️
+code_120 | [DNN- SSD Real-time Video Detection](python/code_125)   | ✔️
