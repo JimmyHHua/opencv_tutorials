@@ -163,3 +163,8 @@ code_122 | [DNN- DNN实现图像分类](python/code_122)   | ✔️
 code_123 | [DNN- 模型运行设置目标设备与计算后台](python/code_123)   | ✔️
 code_124 | [DNN- SSD单张图片检测](python/code_124)   | ✔️
 code_125 | [DNN- SSD实时视频检测](python/code_125)   | ✔️
+code_126 | [DNN- 基于残差网络的人脸检测](python/code_126)   | ✔️
+code_127 | [DNN- 基于残差网络的视频人脸检测](python/code_127)   | ✔️
+code_128 | [DNN- 调用tensorflow的检测模型](python/code_128)   | ✔️
+code_129 | [DNN- 调用openpose模型实现姿态评估](python/code_129)   | ✔️
+code_130 | [DNN- 调用YOLO对象检测网络](python/code_130)   | ✔️

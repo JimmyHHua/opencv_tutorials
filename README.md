@@ -164,3 +164,8 @@ code_122 | [DNN- Realize image classification](python/code_122)   | ✔️
 code_123 | [DNN- Model runs to set the target device and compute the background](python/code_123)   | ✔️
 code_124 | [DNN- SSD Single Image Detection](python/code_124)   | ✔️
 code_125 | [DNN- SSD Real-time Video Detection](python/code_125)   | ✔️
+code_126 | [DNN- Face Detection based on Residual Network](python/code_126)   | ✔️
+code_127 | [DNN- Video Face Detection based on Residual Network](python/code_127)   | ✔️
+code_128 | [DNN- Call the Detection Model of Tensorflow](python/code_128)   | ✔️
+code_129 | [DNN- Call the Openpose Implementation Attitude Assessment](python/code_129)   | ✔️
+code_130 | [DNN- Call YOLO Object Detection Network](python/code_130)   | ✔️
