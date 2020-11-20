@@ -169,3 +169,5 @@ code_127 | [DNN- Video Face Detection based on Residual Network](python/code_127
 code_128 | [DNN- Call the Detection Model of Tensorflow](python/code_128)   | ✔️
 code_129 | [DNN- Call the Openpose Implementation Attitude Assessment](python/code_129)   | ✔️
 code_130 | [DNN- Call YOLO Object Detection Network](python/code_130)   | ✔️
+code_131 | [DNN- YOLOv3-tiny Real-time Object Detection](python/code_131)   | ✔️
+code_132 | [DNN- Single and Multiple Image Detection](python/code_132)   | ✔️

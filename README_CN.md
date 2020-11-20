@@ -168,3 +168,5 @@ code_127 | [DNN- 基于残差网络的视频人脸检测](python/code_127)   | �
 code_128 | [DNN- 调用tensorflow的检测模型](python/code_128)   | ✔️
 code_129 | [DNN- 调用openpose模型实现姿态评估](python/code_129)   | ✔️
 code_130 | [DNN- 调用YOLO对象检测网络](python/code_130)   | ✔️
+code_131 | [DNN- YOLOv3-tiny版本实时对象检测](python/code_131)   | ✔️
+code_132 | [DNN- 单张与多张图像的推断](python/code_132)   | ✔️
