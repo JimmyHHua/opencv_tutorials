@@ -171,3 +171,14 @@ code_129 | [DNN- Call the Openpose Implementation Attitude Assessment](python/co
 code_130 | [DNN- Call YOLO Object Detection Network](python/code_130)   | ✔️
 code_131 | [DNN- YOLOv3-tiny Real-time Object Detection](python/code_131)   | ✔️
 code_132 | [DNN- Single and Multiple Image Detection](python/code_132)   | ✔️
+code_133 | [DNN- Colorful Image Colorization ](python/code_133)   | ✔️
+code_134 | [DNN- ENet Image Segmentation](python/code_134)   | ✔️
+code_135 | [DNN- Real-time Fast Image Style Transfer](python/code_135)   | ✔️
+
+---
+
+### Appendix
+
+⛳️ The weight can be download from Google Driver：
+
+🌱 [Weight for DNN](https://drive.google.com/drive/folders/1mg6VXpkvEmyL1scaelX5FnW8uw1gk9iq?usp=sharing)

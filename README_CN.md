@@ -170,3 +170,14 @@ code_129 | [DNN- 调用openpose模型实现姿态评估](python/code_129)   | �
 code_130 | [DNN- 调用YOLO对象检测网络](python/code_130)   | ✔️
 code_131 | [DNN- YOLOv3-tiny版本实时对象检测](python/code_131)   | ✔️
 code_132 | [DNN- 单张与多张图像的推断](python/code_132)   | ✔️
+code_133 | [DNN- 图像颜色化模型使用 ](python/code_133)   | ✔️
+code_134 | [DNN- ENet实现图像分割](python/code_134)   | ✔️
+code_135 | [DNN- 实时快速的图像风格迁移](python/code_135)   | ✔️
+
+---
+
+### 附录
+
+⛳️ DNN模块的一些模型下载可以从下面的谷歌云中获取：
+
+🌱 [Weight for DNN](https://drive.google.com/drive/folders/1mg6VXpkvEmyL1scaelX5FnW8uw1gk9iq?usp=sharing)
