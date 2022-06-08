@@ -78,7 +78,7 @@ cv.destroyAllWindows()
 输入：
 
 采用 selectROI, 可以在图中自己选定ROI区域：
-- 选定后，按enter 或则 Space 进行grabcut；
+- 选定后，按enter 或者 Space 进行grabcut；
 - 重新选ROI，只需用鼠标重新选择即可；
 - 按 c 结束程序。
 
